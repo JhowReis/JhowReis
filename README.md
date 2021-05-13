@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    ##I'm Jonathan Reis :wave:
+    ## I'm Jonathan Reis :wave:
     <br><br>
     I work as a Test Engineer :iphone: and :globe_with_meridians: developer!
     <br><br>
