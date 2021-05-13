@@ -9,7 +9,6 @@
     I believe in Camaragibe, Perbambuco - Brazil :grin:
     <br><br>
     
-    </samp>
 </p>
 
 <br>
