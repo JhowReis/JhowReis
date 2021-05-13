@@ -13,12 +13,6 @@
 
 <br>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-
-  <br>
-  
-![Jonathan Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=JhowReis=dark&show_icons=true)
 
 ---
 
