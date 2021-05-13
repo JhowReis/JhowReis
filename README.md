@@ -4,10 +4,11 @@
   <samp>
 ## I'm Jonathan Reis :wave:
     <br><br>
-    I work at Procenge Technologies as Test Engineer 💻 and :globe_with_meridians: developer!
+    I work at Procenge Technologies as Test Engineer 💻 and 📱: developer in my free time!
     <br><br>
     I Live in Camaragibe, Perbambuco - Brazil :grin:
     <br><br>
+     🌱 I’m currently learning about **javaScript**, **React Native**, **Angular**, **spring boot**, **Seleniun**
     
 </p>
 
@@ -18,7 +19,6 @@
 
 ## 🚀💻 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
