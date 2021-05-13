@@ -4,11 +4,11 @@
   <samp>
 ## I'm Jonathan Reis :wave:
     <br><br>
-    I work at Procenge Technologies as Test Engineer 💻 and 📱: developer in my free time!
+    - 💻 I work at Procenge Technologies as Test Engineer and developer in my free time!
     <br><br>
     I Live in Camaragibe, Perbambuco - Brazil 😀:
     <br><br>
-     🌱 I’m currently learning about  **Spring Boot**, **Seleniun** **React Native**, **Angular**,
+     🌱 I’m currently learning about  Spring Boot, Seleniun React Native, Angular,
     
 </p>
 
