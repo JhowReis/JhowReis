@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
- 🦸‍♂️: I'm Jonathan Reis :wave:
-
-    💻: I work at Procenge Technologies as Test Engineer and  developer in my free time!
+## I'm Jonathan Reis :wave:
+    <br><br>
+    I work at Procenge Technologies as Test Engineer 💻 and 📱: developer in my free time!
     <br><br>
     I Live in Camaragibe, Perbambuco - Brazil 😀:
     <br><br>
-    🌱 I’m currently learning about  Spring Boot, Seleniun React Native, Angular,
+     🌱 I’m currently learning about  **Spring Boot**, **Seleniun** **React Native**, **Angular**,
     
 </p>
 
-
+<br>
 
 
 ---
