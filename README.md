@@ -6,7 +6,7 @@
     <br><br>
     💻 I work at Procenge Technologies as Test Engineer and developer in my free time!
     <br><br>
-    🏖️ I Live in Camaragibe, Perbambuco - Brazil 
+    🏖️ I Live in  Perbambuco - Brazil 
     <br><br>
     🌱 I’m currently learning about  Spring Boot, Seleniun React Native, Angular,
     
